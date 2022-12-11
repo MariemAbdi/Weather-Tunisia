@@ -1,9 +1,9 @@
 # Weather-Tunisia
 Android Weather App
 <h1 align="center">DEMO</h1>
-<p align="center">
-<video src="https://user-images.githubusercontent.com/100727442/206920472-ca6c6234-c925-4b3b-8da5-0ba6834064db.mp4" width="300"/>
-</p>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/206920472-ca6c6234-c925-4b3b-8da5-0ba6834064db.mp4" width="400"/>
+</div>
 
 <h1 align="center">SCREENSHOTS</h1>
 <p float="left" align="center">
